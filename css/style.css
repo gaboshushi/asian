@@ -128,9 +128,9 @@ a:hover, a:active {
 .background_Veggie {
   background: url("../upload/buddah_grill.jpg");
       background-attachment: fixed;
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
-  background-size:cover;
+  background-size:120%;
     height: 300px;
     width: 100%;
 
