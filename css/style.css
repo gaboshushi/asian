@@ -124,3 +124,14 @@ a:hover, a:active {
 .catNameIn {
     padding-top: 15px;
 }
+
+.background_Veggie {
+  background: url("../upload/buddah_grill.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
