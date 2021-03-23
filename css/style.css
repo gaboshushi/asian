@@ -134,65 +134,140 @@ hr.solid
     padding-top: 15px;
 }
 
-.background {
-	      background-attachment: fixed;
+.background_Bebidas1 {
+  background: url("../upload/BG_bebida1.jpg");
+      background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size:cover;
     height: 300px;
     width: 100%;
+
 }
 
-.Bebidas1 {
-  background: url("../upload/BG_bebida1.jpg");
-}
-
-.Bebidas2 {
+.background_Bebidas2 {
   background: url("../upload/BG_bebida2.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Bebidas3 {
+.background_Bebidas3 {
   background: url("../upload/BG_bebida3.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Bebidas4 {
+.background_Bebidas4 {
   background: url("../upload/BG_bebida4.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Bebidas5 {
+.background_Bebidas5 {
   background: url("../upload/BG_bebida5.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Paquete1 {
+.background_Paquete1 {
   background: url("../upload/BG_paquete1.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Paquete2 {
+.background_Paquete2 {
   background: url("../upload/BG_paquete2.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Paquete3 {
+.background_Paquete3 {
   background: url("../upload/BG_paquete3.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
 
-.Veggie {
+.background_Veggie {
   background: url("../upload/buddah_grill.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Sushi1 {
+.background_Sushi1 {
   background: url("../upload/BG_sushi1.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Sushi2 {
+.background_Sushi2 {
   background: url("../upload/BG_sushi2.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Kids1 {
+.background_Kids1 {
   background: url("../upload/BG_kids1.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
 }
 
-.Kids2 {
+.background_Kids2 {
   background: url("../upload/BG_kids2.jpg");
       background-attachment: fixed;
   background-position: center;
@@ -203,55 +278,146 @@ hr.solid
 
 }
 
-.Sopas {
+.background_Sopas {
     background: url("../upload/BG_sopas.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-.Sashimi {
+.background_Sashimi {
     background: url("../upload/BG_sashimi.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
-.Postres {
+.background_Postres {
     background: url("../upload/BG_postre.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-.Nigiri {
+.background_Nigiri {
     background: url("../upload/BG_nigiri.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-.Sopas {
+.background_Sopas {
     background: url("../upload/BG_sopas.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-.Paquete {
+.background_Paquete {
     background: url("../upload/BG_teppan.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-.Teppan {
+.background_Teppan {
     background: url("../upload/BG_teppan.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-.Chop {
+.background_Chop {
     background: url("../upload/BG_chop.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-  .Arroz {
+  .background_Arroz {
     background: url("../upload/BG_arroz.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-.Maki {
+.background_Maki {
     background: url("../upload/BG_temaki.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-  .Broche {
+  .background_Broche {
     background: url("../upload/BG_brochetas.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-  .Entradas2 {
+  .background_Entradas2 {
     background: url("../upload/BG_entradas2.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
-  .Entradas {
+  .background_Entradas {
     background: url("../upload/BG_entradas.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
   }
 
 ul {
@@ -355,7 +521,7 @@ height: 35px;
 }
 
 @media only screen and (max-device-width: 1366px) {
-  .background {
+  .background_Veggie {
     background-attachment: scroll;
   }
 	header {
