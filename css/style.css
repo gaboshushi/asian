@@ -6,6 +6,8 @@ body, html {
 	color: #ffffff !important;
 	font-family: 'Questrial', sans-serif !important;
     font-size: 14px;
+	  -webkit-perspective: 500;
+   -webkit-perspective-origin: 0 0;
 }
 
 header {
@@ -14,6 +16,7 @@ header {
     background-position: top;
     background-repeat: no-repeat;
     background-size: 120%;
+	translateZ: -30px;
 }
 
 
