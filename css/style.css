@@ -519,3 +519,12 @@ td {
 height: 35px;
 	padding: 10px;
 }
+
+@media only screen and (max-device-width: 1366px) {
+  .background_Veggie {
+    background-attachment: scroll;
+  }
+	header {
+    background-attachment: scroll;
+  }
+}
