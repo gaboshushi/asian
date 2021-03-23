@@ -63,6 +63,12 @@ a:hover, a:active {
   width: 30%;
 }
 
+hr.solid
+{
+	border-top: 2px solid #FFFFFF !important;
+	width: 50%;
+    padding: 5px 0;
+}
 .titulo {
 	background-color: #AAA48C;
   	height: auto; 
@@ -125,6 +131,95 @@ a:hover, a:active {
     padding-top: 15px;
 }
 
+.background_Bebidas1 {
+  background: url("../upload/BG_bebida1.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Bebidas2 {
+  background: url("../upload/BG_bebida2.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Bebidas3 {
+  background: url("../upload/BG_bebida3.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Bebidas4 {
+  background: url("../upload/BG_bebida4.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Bebidas5 {
+  background: url("../upload/BG_bebida5.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Paquete1 {
+  background: url("../upload/BG_paquete1.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Paquete2 {
+  background: url("../upload/BG_paquete2.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Paquete3 {
+  background: url("../upload/BG_paquete3.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+
 .background_Veggie {
   background: url("../upload/buddah_grill.jpg");
       background-attachment: fixed;
@@ -134,4 +229,290 @@ a:hover, a:active {
     height: 300px;
     width: 100%;
 
+}
+
+.background_Sushi1 {
+  background: url("../upload/BG_sushi1.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Sushi2 {
+  background: url("../upload/BG_sushi2.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Kids1 {
+  background: url("../upload/BG_kids1.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Kids2 {
+  background: url("../upload/BG_kids2.jpg");
+      background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+    height: 300px;
+    width: 100%;
+
+}
+
+.background_Sopas {
+    background: url("../upload/BG_sopas.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+.background_Sashimi {
+    background: url("../upload/BG_sashimi.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+.background_Postres {
+    background: url("../upload/BG_postre.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+.background_Nigiri {
+    background: url("../upload/BG_nigiri.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+.background_Sopas {
+    background: url("../upload/BG_sopas.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+.background_Paquete {
+    background: url("../upload/BG_teppan.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+.background_Teppan {
+    background: url("../upload/BG_teppan.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+.background_Chop {
+    background: url("../upload/BG_chop.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+  .background_Arroz {
+    background: url("../upload/BG_arroz.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+.background_Maki {
+    background: url("../upload/BG_temaki.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+  .background_Broche {
+    background: url("../upload/BG_brochetas.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+  .background_Entradas2 {
+    background: url("../upload/BG_entradas2.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+  .background_Entradas {
+    background: url("../upload/BG_entradas.jpg");
+        background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+      height: 300px;
+      width: 100%;
+  
+  }
+
+ul {
+    padding-inline-start: 0;
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.img-container {
+    position: relative;
+
+}
+
+.img-container img {
+    height: 100%;
+    width: 100%;
+}
+
+.img-container .img-footer {
+    position: absolute;
+    bottom: 0; left: 0;
+    padding: 10px;   
+
+    width: 100%;
+
+    color: #fff;
+    background: rgba(0,0,0,0.7);   
+}
+
+.izqCol{
+	border-right: 1px ridge #ffffff;
+}
+
+.xianCol {
+	background-color: #e2be9e;
+	vertical-align: middle;
+	padding-top: 0.5em;
+	color: #1f1f1f;
+}
+
+.sakuCol {
+	background-color: #efb4e9;
+	vertical-align: middle;
+	padding-top: 0.5em;
+	color: #1f1f1f;
+}
+
+.jinanCol {
+	background-color: #8ae0c3;
+	vertical-align: middle;
+	padding-top: 0.5em;
+	color: #1f1f1f;
+}
+     
+    .demo-icon
+    {
+      font-family: "fontello";
+      font-style: normal;
+      font-weight: normal;
+      speak: never;
+     
+      display: inline-block;
+      text-decoration: inherit;
+      width: 1em;
+      margin-right: .2em;
+      text-align: center;
+      /* opacity: .8; */
+     
+      /* For safety - reset parent styles, that can break glyph codes*/
+      font-variant: normal;
+      text-transform: none;
+     
+      /* fix buttons height, for twitter bootstrap */
+      line-height: 1em;
+     
+      /* Animation center compensation - margins should be symmetric */
+      /* remove if not needed */
+      margin-left: .2em;
+     
+      /* You can be more comfortable with increased icons size */
+      /* font-size: 120%; */
+     
+      /* Font smoothing. That was taken from TWBS */
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+     
+      /* Uncomment for 3D effect */
+      /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+    }
+
+
+table {
+	
+	width:100%;
+}
+
+td {
+height: 35px;
+	padding: 10px;
 }
