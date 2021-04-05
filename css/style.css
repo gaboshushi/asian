@@ -499,10 +499,7 @@ height: 35px;
 }
 
 @media only screen and (max-device-width: 1366px) {
-  .background_Bebidas1, .background_Bebidas2, .background_Bebidas3, .background_Bebidas4, .background_Bebidas5, .background_Veggie, .background_Entradas, .background_Entradas2, .background_Broche, .background_Maki, .background_Arroz, .background_Chop; .background_Teppan, .background_Paquete1, .background_Paquete2, .background_Paquete3, .background_Sopas, .background_Nigiri, .background_Postre, .background_Sashimi, .background_Kids1, .background_Kids2, .background_Sushi2, .background_Sushi1,  {
-    background-attachment: scroll;
-  }
-	header {
+  header, .background_Bebidas1, .background_Bebidas2, .background_Bebidas3, .background_Bebidas4, .background_Bebidas5, .background_Veggie, .background_Entradas, .background_Entradas2, .background_Broche, .background_Maki, .background_Arroz, .background_Chop, .background_Teppan, .background_Paquete1, .background_Paquete2, .background_Paquete3, .background_Sopas, .background_Nigiri, .background_Postre, .background_Sashimi, .background_Kids1, .background_Kids2, .background_Sushi2, .background_Sushi1  {
     background-attachment: scroll;
   }
 }
