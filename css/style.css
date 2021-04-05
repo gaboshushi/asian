@@ -278,17 +278,6 @@ hr.solid
 
 }
 
-.background_Sopas {
-    background: url("../upload/BG_sopas.jpg");
-        background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-      height: 300px;
-      width: 100%;
-  
-  }
-
 .background_Sashimi {
     background: url("../upload/BG_sashimi.jpg");
         background-attachment: fixed;
@@ -323,17 +312,6 @@ hr.solid
 
 .background_Sopas {
     background: url("../upload/BG_sopas.jpg");
-        background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-      height: 300px;
-      width: 100%;
-  
-  }
-
-.background_Paquete {
-    background: url("../upload/BG_teppan.jpg");
         background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -521,7 +499,7 @@ height: 35px;
 }
 
 @media only screen and (max-device-width: 1366px) {
-  .background_Veggie {
+  .background_Bebidas1, .background_Bebidas2, .background_Bebidas3, .background_Bebidas4, .background_Bebidas5, .background_Veggie, .background_Entradas, .background_Entradas2, .background_Broche, .background_Maki, .background_Arroz, .background_Chop; .background_Teppan, .background_Paquete1, .background_Paquete2, .background_Paquete3, .background_Sopas, .background_Nigiri, .background_Postre, .background_Sashimi, .background_Kids1, .background_Kids2, .background_Sushi2, .background_Sushi1,  {
     background-attachment: scroll;
   }
 	header {
